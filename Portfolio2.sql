@@ -20,3 +20,4 @@ ON d.code = p.code AND d.year = p.year
 ORDER BY code
 
 -- 6. Ïåðåíîñèì äàííûå â Power BI
+-finput-charset=utf-8 -fexec-charset=cp866
